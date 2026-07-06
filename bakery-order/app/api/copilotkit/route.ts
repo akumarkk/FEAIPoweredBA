@@ -20,3 +20,7 @@ const { handleRequest } = copilotRuntimeNextJSAppRouterEndpoint({
 export const POST = async (req: NextRequest) => {
   return handleRequest(req);
 };
+
+export const GET = async (req: Request) => {
+  return handleRequest(req);
+};
