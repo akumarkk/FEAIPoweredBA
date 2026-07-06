@@ -18,19 +18,26 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+##### Bakery Appl
+get me bakery list
+I can't get you a bakery list. I can only book an order for a pastry.
 
-## Learn More
+from which bakery?
+I can't answer that. I can only book an order for a pastry and I don't have information about specific bakeries.
 
-To learn more about Next.js, take a look at the following resources:
+order 5 pastries
+What kind of pastry would you like to order?
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+chocolate pastry
+Order: chocolate pastry
+Quantity: 5
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Status: Confirmed!
 
-## Deploy on Vercel
+I have booked 5 chocolate pastries for you.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Type a message...
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Powered by CopilotKit
+
+Welcome to the AI Bakery
